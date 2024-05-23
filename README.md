@@ -1,4 +1,4 @@
-# Sentiment Analysis of Daraz Reviews using BERT
+# Sentiment Analysis of Roman Urdu Daraz Reviews using BERT
 
 ## Group Members
 ## Muhammad Ali - F2020-591
