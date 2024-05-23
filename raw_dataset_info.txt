@@ -1,0 +1,7 @@
+
+Raw Dataset Information:
+- Source: daraz.csv
+- Number of instances: 8807
+- Number of features: 2
+- Target variable: Sentiments
+- Description: This dataset contains customer reviews from daraz.com with sentiment labels.
